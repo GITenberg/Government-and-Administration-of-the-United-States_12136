@@ -1,0 +1,35 @@
+_repo: Government-and-Administration-of-the-United-States_12136
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Willoughby, Westel Woodbury
+    alias: Willoughby, W. W. (Westel Woodbury)
+    birthdate: &id001 1867
+    deathdate: 1945
+    gutenberg_agent_id: '4237'
+    url: http://www.gutenberg.org/2009/agents/4237
+    wikipedia: http://en.wikipedia.org/wiki/Westel_W._Willoughby
+  - agent_name: Willoughby, William F. (William Franklin)
+    aliases:
+    - Willoughby, William Franklin
+    - Willoughby, W. F. (William Franklin)
+    birthdate: *id001
+    deathdate: 1960
+    gutenberg_agent_id: '4637'
+    url: http://www.gutenberg.org/2009/agents/4637
+    wikipedia: http://en.wikipedia.org/wiki/William_F._Willoughby
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcc 'JK'
+- GITenberg
+title: Government and Administration of the United States
+url: http://www.gutenberg.org/ebooks/12136
