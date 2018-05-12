@@ -1,10 +1,13 @@
 _repo: Government-and-Administration-of-the-United-States_12136
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Willoughby, Westel Woodbury
     alias: Willoughby, W. W. (Westel Woodbury)
-    birthdate: &id001 1867
+    birthdate: 1867
     deathdate: 1945
     gutenberg_agent_id: '4237'
     url: http://www.gutenberg.org/2009/agents/4237
@@ -13,12 +16,14 @@ creator:
     aliases:
     - Willoughby, William Franklin
     - Willoughby, W. F. (William Franklin)
-    birthdate: *id001
+    birthdate: 1867
     deathdate: 1960
     gutenberg_agent_id: '4637'
     url: http://www.gutenberg.org/2009/agents/4637
     wikipedia: http://en.wikipedia.org/wiki/William_F._Willoughby
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12136#Government-and-Administration-of-the-United-States
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
